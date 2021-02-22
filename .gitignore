@@ -1,3 +1,6 @@
+# for ignore vscode setting
+.vscode
+
 # add yamaguchi
 *.swp
 *.pyc
